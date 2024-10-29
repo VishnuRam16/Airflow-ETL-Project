@@ -1,4 +1,4 @@
- Project Overview
+**Project Overview**
 
 I've created an impressive ETL (Extract, Transform, Load) project using the following technologies:
 
